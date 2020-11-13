@@ -2,25 +2,15 @@
 
 Developed by ICE students:
 
-1.Schwin Hongladaromp 6131737821
+1.Schwin Hongladaromp 6131737821 (schwin.hong@gmail.com)
 
-schwin.hong@gmail.com
+2.Chanon Sangrattanayon 6131742921 (chanon_28444@hotmail.com)
 
-2.Chanon Sangrattanayon 6131742921
+3. Kollapat Vachiratrangsalit 6131710821 (kollapatv2@gmail.com)
 
-chanon_28444@hotmail.com
+4. Khanatat Thangwatthanarat 6131723021 (khanatatac@gmail.com)
 
-3. Kollapat Vachiratrangsalit 6131710821
-
-kollapatv2@gmail.com
-
-4. Khanatat Thangwatthanarat 6131723021
-
-khanatatac@gmail.com
-
-5. Nuttaset Pattanadee 6131759621
-
-nuttasetsk@hotmail.com
+5. Nuttaset Pattanadee 6131759621 (nuttasetsk@hotmail.com)
 
 ## How to run
 
