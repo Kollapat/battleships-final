@@ -21,4 +21,3 @@ npm run dev
 access using browser (preferably using Google Chrome)
 
 http://localhost:3000
-## Usage
